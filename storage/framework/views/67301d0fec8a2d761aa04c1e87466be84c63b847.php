@@ -2,7 +2,7 @@
 <div class="col-md-12">
     <div class="card">
         <div class="card-header">
-            <div class="card-title">Tambah penilaian</div>
+            <div class="card-title">Penilaian</div>
         </div>
         <div class="card-body">
             <?php echo Form::open(['route'=>'penilaian.store','method'=>'POST']); ?>
